@@ -1,2 +1,2 @@
-### Pip test
-Hi!
+### WANN
+This is a package for WANN creation

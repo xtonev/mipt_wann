@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'test_pip_pip_pip',
-  packages = ['test_pip_pip_pip'],
+  name = 'mipt_wann',
+  packages = ['mipt_wann'],
   version = '0.1',
   license='MIT',
-  description = 'Testing how pip install works',
+  description = 'WANN creation',
   author = 'Xtonev',
   author_email = 'xtonev@gmail.com',
   download_url = 'https://github.com/xtonev/test_pip_pip_pip/archive/v0.1.tar.gz',
-  keywords = ['test', 'pip', 'install'],
+  keywords = ['wann', 'neural', 'network', 'genetic'],
   install_requires=[
           'numpy',
       ],
