@@ -7,7 +7,7 @@ setup(
   description = 'Testing how pip install works',
   author = 'Xtonev',
   author_email = 'xtonev@gmail.com',
-  download_url = 'https://github.com/xtonev/test_pip/archive/v0.1.tar.gz',
+  download_url = 'https://github.com/xtonev/test_pip_pip_pip/archive/v0.1.tar.gz',
   keywords = ['test', 'pip', 'install'],
   install_requires=[
           'numpy',
